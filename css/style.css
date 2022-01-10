@@ -39,7 +39,7 @@ header, .navbar {
   color: #FFF;
 }
 
-#navbar-links a {
+.nav-item, .nav-link{
   color: #FFF;
 }
 
